@@ -1,2 +1,1 @@
-# ContourletCNN
-Contourlet transform + CNN for speaker diarization
+Используем Contourlet transform + CNN для определения спикеров по фонеме "А" 
